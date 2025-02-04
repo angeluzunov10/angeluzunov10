@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently learning Python, Django, PostgreSQL.
+Currently learning Python, Django, PostgreSQL, HTML & CSS.
 
 
 ## 🌐 Socials:
