@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hello!
+I'm Angel! 
 
-I'm Angel! It's a pleasure that you have decided to stalk my GitHub account. 🤪
+It's a pleasure for me that you have decided to stalk my GitHub account. 🤪
 
 Have some skills in Python, Django, PostgreSQL, HTML & CSS and JavaScript. 🐍
 
