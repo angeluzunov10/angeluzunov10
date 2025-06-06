@@ -1,7 +1,10 @@
 # 💫 About Me:
 Hello!
+
 I'm Angel! It's a pleasure that you have decided to stalk my GitHub account. 🤪
+
 Have some skills in Python, Django, PostgreSQL, HTML & CSS and JavaScript. 🐍
+
 Now I'm learning Software Engineering and DevOps practices. Next educational stop is Containers and Cloud. 📦☁️
 
 
